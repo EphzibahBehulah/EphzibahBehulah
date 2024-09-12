@@ -2,8 +2,8 @@
 - 👀 I’m interested in learning python for data analysis 
 - 🌱 I’m currently learning Python foundation at ReDI
 - 💞️ I’m looking to collaborate on LEARNING PYTHON
-- 📫 How to reach me .codewithoracle@gmail.com
-- 😄 Pronouns: HE ...
+- 📫 How to reach me codewithoracle@gmail.com
+- 😄 Pronouns: HE
 - ⚡ Fun fact: Iam not a robot
 
 <!---
